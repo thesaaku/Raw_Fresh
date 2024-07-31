@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "630abd8fb585880c9e3a1558"
+  },
+  "ps_id": 1,
+  "ps_or_id": "1",
+  "ps_product_name": "Fish",
+  "ps_image": "media/products/images.jpg",
+  "ps_weight": "1",
+  "ps_price": "800",
+  "ps_total_amt": "800",
+  "ps_date": "2022-08-28",
+  "ps_status": "0",
+  "ps_user_name": "Balasaheb",
+  "ps_user_email": "balasahebpatil243@gmail.com",
+  "ps_vendor_email": "vaish@gmail.com"
+},{
+  "_id": {
+    "$oid": "630ac2d1b585880c9e3a1560"
+  },
+  "ps_id": 2,
+  "ps_or_id": "2",
+  "ps_product_name": "Fish",
+  "ps_image": "media/products/images.jpg",
+  "ps_weight": "1",
+  "ps_price": "800",
+  "ps_total_amt": "800",
+  "ps_date": "2022-08-28",
+  "ps_status": "0",
+  "ps_user_name": "deepa",
+  "ps_user_email": "deepa@gmail.com",
+  "ps_vendor_email": "vaish@gmail.com"
+},{
+  "_id": {
+    "$oid": "630ac6cfb585880c9e3a1565"
+  },
+  "ps_id": 3,
+  "ps_or_id": "3",
+  "ps_product_name": "Fish",
+  "ps_image": "media/products/images.jpg",
+  "ps_weight": "1",
+  "ps_price": "800",
+  "ps_total_amt": "800",
+  "ps_date": "2022-08-28",
+  "ps_status": "0",
+  "ps_user_name": "Rohi",
+  "ps_user_email": "rohi@gmail.com",
+  "ps_vendor_email": "vaish@gmail.com"
+},{
+  "_id": {
+    "$oid": "630acae7b585880c9e3a1579"
+  },
+  "ps_id": 4,
+  "ps_or_id": "4",
+  "ps_product_name": "Chicken",
+  "ps_image": "media/products/prawhenset1_k5KJ17S.jpg",
+  "ps_weight": "1",
+  "ps_price": "180",
+  "ps_total_amt": "180",
+  "ps_date": "2022-08-28",
+  "ps_status": "0",
+  "ps_user_name": "reva",
+  "ps_user_email": "reva@gmail.com",
+  "ps_vendor_email": "anjesh@gmail.com"
+},{
+  "_id": {
+    "$oid": "630acc2bb585880c9e3a157f"
+  },
+  "ps_id": 5,
+  "ps_or_id": "5",
+  "ps_product_name": "Mutton",
+  "ps_image": "media/products/raw-fresh-pork-collar-joint-2128368_nHEoc6O.jpg",
+  "ps_weight": "1",
+  "ps_price": "650",
+  "ps_total_amt": "650",
+  "ps_date": "2022-08-28",
+  "ps_status": "0",
+  "ps_user_name": "Yogesh",
+  "ps_user_email": "yogesh@gmail.com",
+  "ps_vendor_email": "amit@gmail.com"
+},{
+  "_id": {
+    "$oid": "630accdab585880c9e3a1585"
+  },
+  "ps_id": 6,
+  "ps_or_id": "6",
+  "ps_product_name": "Chicken",
+  "ps_image": "media/products/image.jpg",
+  "ps_weight": "4",
+  "ps_price": "220",
+  "ps_total_amt": "880",
+  "ps_date": "2022-08-28",
+  "ps_status": "0",
+  "ps_user_name": "Sushil",
+  "ps_user_email": "sushil@gmail.com",
+  "ps_vendor_email": "abhi@gmail.com"
+}]

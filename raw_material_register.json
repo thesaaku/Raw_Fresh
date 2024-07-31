@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "630abd38b585880c9e3a1554"
+  },
+  "rg_id": 1,
+  "rg_name": "Balasaheb",
+  "rg_mobile": "7878787457",
+  "rg_email": "balasahebpatil243@gmail.com",
+  "rg_password": "Balasaheb@123",
+  "rg_address": "Jugul",
+  "rg_secret_key": "",
+  "rg_status": ""
+},{
+  "_id": {
+    "$oid": "630ac29fb585880c9e3a155c"
+  },
+  "rg_id": 2,
+  "rg_name": "deepa",
+  "rg_mobile": "7878745412",
+  "rg_email": "deepa@gmail.com",
+  "rg_password": "Deepa@123",
+  "rg_address": "Chikkodi",
+  "rg_secret_key": "",
+  "rg_status": ""
+},{
+  "_id": {
+    "$oid": "630ac590b585880c9e3a1561"
+  },
+  "rg_id": 3,
+  "rg_name": "reva",
+  "rg_mobile": "7878745412",
+  "rg_email": "reva@gmail.com",
+  "rg_password": "Reva@123",
+  "rg_address": "Belgaum",
+  "rg_secret_key": "",
+  "rg_status": ""
+},{
+  "_id": {
+    "$oid": "630ac698b585880c9e3a1563"
+  },
+  "rg_id": 4,
+  "rg_name": "Rohi",
+  "rg_mobile": "7878787878",
+  "rg_email": "rohi@gmail.com",
+  "rg_password": "Rohi@123",
+  "rg_address": "Chikkodi",
+  "rg_secret_key": "",
+  "rg_status": ""
+},{
+  "_id": {
+    "$oid": "630acbf4b585880c9e3a157b"
+  },
+  "rg_id": 5,
+  "rg_name": "Yogesh",
+  "rg_mobile": "7878787457",
+  "rg_email": "yogesh@gmail.com",
+  "rg_password": "Yogesh@123",
+  "rg_address": "Chikkodi",
+  "rg_secret_key": "",
+  "rg_status": ""
+},{
+  "_id": {
+    "$oid": "630accaab585880c9e3a1581"
+  },
+  "rg_id": 6,
+  "rg_name": "Sushil",
+  "rg_mobile": "8867645598",
+  "rg_email": "sushil@gmail.com",
+  "rg_password": "Sushil@123",
+  "rg_address": "Jugul",
+  "rg_secret_key": "",
+  "rg_status": ""
+}]
